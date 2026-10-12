@@ -1,7 +1,5 @@
-# PI-et-droit-spatial
-Étudiante en droit, intéressée par la PI et le droit spatial  
-# Propriété intellectuelle et droit spatial : mon parcours
-
+  # Propriété intellectuelle et droit spatial : mon parcours
+*First-year law student in France, interested in intellectual property and space law. I document here what I learn, one note at a time (my notes are in French).*
 > Étudiante en L1 Droit, je documente ici ce que j'apprends.
 > Ce sont des notes personnelles, pas des conseils juridiques.
 
