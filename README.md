@@ -24,7 +24,7 @@ Je m'appelle Yousra, je suis étudiante en droit à l'Université Paris-Saclay. 
 - [ ] Les licences open source
 
 ### Droit spatial
-- [ ] Le Traité de l'espace de 1967
+- [x] Le Traité de l'espace de 1967
 - [ ] La loi française de 2008 sur les opérations spatiales
 - [ ] La responsabilité en cas de dommage causé par un objet spatial
 
